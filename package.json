@@ -2,7 +2,7 @@
   "name": "portfolio-kamal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kamalkishorji.github.io/react-gh-pages",
+  "homepage": "https://kamalkishorji.github.io/portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
