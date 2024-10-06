@@ -4,7 +4,7 @@ import logo from "../../assets/logo.svg";
 import underline_icon from "../../assets/underline_icon.svg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import close_icon from "../../assets/close_icon.svg";
-import menu_open_icon from "../../assets/burger-list-menu.svg";
+import menu_open_icon from "../../assets/icons8-menu.svg";
 
 const Navbar = () => {
   const [menu, setMenue] = useState("home");
