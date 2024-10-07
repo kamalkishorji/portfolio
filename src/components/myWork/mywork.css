@@ -73,13 +73,13 @@
     margin-right: -20px;
   }
   .myWork-container {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 20px;
   }
-  /* .myWork-container img{
+  .myWork-container img {
     width: 100%;
     height: 100%;
-  } */
+  }
   .myWork-showmore {
     padding: 15px 30px;
     font-size: 16px;
